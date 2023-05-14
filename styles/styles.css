@@ -308,22 +308,28 @@ section {
   transition: all 0.4s ease-in-out;
   width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
+.about-stats .progress-bars .progress-bar .progress-con .progress .word {
   width: 70%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .excel {
+  width: 50%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .photoshop {
+  width: 50%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .coreldraw {
+  width: 50%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .html {
+  width: 50%;
+}
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 50%;
+  width: 45%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 50%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .javascript {
+  width: 45%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 50%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 50%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .python {
+.about-stats .progress-bars .progress-bar .progress-con .progress .mysql {
   width: 45%;
 }
 
