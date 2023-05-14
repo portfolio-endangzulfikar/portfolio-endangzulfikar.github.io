@@ -315,22 +315,22 @@ section {
   width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .photoshop {
-  width: 65%;
+  width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .coreldraw {
-  width: 65%;
+  width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 80%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
   width: 75%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .javascript {
+.about-stats .progress-bars .progress-bar .progress-con .progress .css {
   width: 70%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .javascript {
+  width: 65%;
+}
 .about-stats .progress-bars .progress-bar .progress-con .progress .mysql {
-  width: 70%;
+  width: 65%;
 }
 
 .stat-title {
